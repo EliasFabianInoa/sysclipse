@@ -146,4 +146,4 @@ MIT - Libre uso y modificación.
 
 ### Autor
 
-Desarrollado como proyecto de portafolio con calidad empresarial.
+Elías Fabian - Desarrollado como proyecto de portafolio con calidad empresarial.
