@@ -1,0 +1,18 @@
+{
+  "Version": "1.1.0",
+  "Idioma": "es-ES",
+  "NivelRegistro": "INFO",
+  "ReportesAutomaticos": false,
+  "ConfirmarAcciones": true,
+  "Tema": "Oscuro",
+  "ColorPrimario": "Cian",
+  "ModulosActivos": [
+    "Salud",
+    "Recuperacion",
+    "Rendimiento",
+    "Seguridad",
+    "Red",
+    "Reportes",
+    "Instantaneas"
+  ]
+}

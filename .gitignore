@@ -1,0 +1,15 @@
+# SYSCLIPSE - archivos generados en tiempo de ejecución
+# Contienen datos reales del sistema/usuario donde se ejecuta el programa
+# (nombre de usuario, nombre de equipo, IPs, resultados de auditoría, etc.)
+
+Registros/
+Reportes/
+Instantaneas/
+*.log
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Configuración local si en algún momento se separa de la de ejemplo
+Configuracion.local.json
